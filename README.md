@@ -1,0 +1,1 @@
+This Ruby program creates a new hash object, injects a string, and sorts by frequencies and histogram.
